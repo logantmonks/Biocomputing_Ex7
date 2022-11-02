@@ -1,6 +1,7 @@
 #Part1:this code converts the comma-delimited iris.csv file into a tab delimited version named iris.txt 
 iris.txt <- read.table('iris.csv', sep=',', header=TRUE)
-print(iris.txt) 
+print(iris.txt)
+write.table(iris.txt, file = 'iris.txt', sep='\t')
 
 
 #Part2: Provide R code that creates a list of length 5, with elements: 
