@@ -6,7 +6,7 @@
 
 ### Set working directory 
 getwd()
-setwd("/Users/catherineandreadis/Desktop/biocomputing/Exercise_7")
+setwd("/Users/catherineandreadis/Desktop/biocomputing/Exercise_7/Biocomputing_Ex7")
 
 ## 1. Write code that will turn the comma delimited file iris.csv into a tab 
 ## delimited file (txt) named iris.txt
