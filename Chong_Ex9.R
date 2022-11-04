@@ -14,6 +14,8 @@ element3=999
 #element4 of list: 10-row, 5-column matrix with integers 1:50
 element4=matrix(data = 1:50,nrow=10,ncol=5)
 
-#element5 of list:vecotr containing 3 letters
+#element5 of list:vector containing 3 letters
 element5=c("A","B","C")
 
+#Final list with containing all 5 elements
+FinalList=list(element1,element2,element3,element4,element5)
