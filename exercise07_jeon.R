@@ -1,5 +1,5 @@
 # hjeon
-# Biocomputing Exercise 07
+# Biocomputing Exercise 07 Due by 11/4/2022
 # Question 1
 setwd("/Users/hyesooclarejeon/Documents/biocomputing/exercise07") # set working directory
 iris_data <- read.table(file="iris.csv", sep=",", header=TRUE, stringsAsFactors=TRUE) # store iris metadata to iris_data variable
